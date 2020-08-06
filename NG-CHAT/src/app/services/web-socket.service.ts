@@ -20,5 +20,9 @@ export class WebSocketService {
       })
     })
   }
-  
+
+  emit(eventName: String, data: any) {
+    this.socket.emit(eventName, data);
+  }
+
 }
