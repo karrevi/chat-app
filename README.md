@@ -10,7 +10,7 @@ Al acceder, te muestra todos los usuarios que estén conectados al igual que los
 
 ## Construido con 🛠️
 * [Angular](https://angular.io/) - Framework de desarrollo para JavaScript
-* [Socket.io](https://socket.io/) - Libreria de JS para la comunicación web en tiemo real.
+* [Socket.io](https://socket.io/) - Librería de JS para la comunicación web en tiemo real.
 * [Typescript](https://www.typescriptlang.org/) - Lenguaje de código abierto basado en JS
 
 ---
