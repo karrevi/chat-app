@@ -1,8 +1,8 @@
 # chat-app
 Chat in real time using socket.io and connecting multiple users at the same time.
 
-## Home 🚀
-![Screenshot 11_07_2020 18_13_58](https://user-images.githubusercontent.com/51401631/87229336-849c1e00-c3a7-11ea-939c-08f3d5fa1010.png)
+## Inicio Chat 🚀
+![home_user](https://user-images.githubusercontent.com/51401631/89742063-e9c25c80-da96-11ea-83a2-fdbe8c2e371f.png)
 Acceso a los ciudades de Madrid mediante el accionar del botón.
 
 ## User - Home 🚀
